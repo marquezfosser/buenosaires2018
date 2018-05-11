@@ -1,6 +1,6 @@
 # buenosaires2018
 
-Workshop for Buenos Aires on 11 May 2018.
+Workshop for Buenos Aires on May, 11 2018.
 
 ## Agenda
 
